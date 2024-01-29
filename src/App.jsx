@@ -1,3 +1,4 @@
+import HeroOne from "./components/HeroOne"
 import NavOne from "./components/NavOne"
 
 
@@ -10,6 +11,7 @@ function App() {
     <div className=" w-full">
 
       <NavOne/>
+      <HeroOne/>
 
 
 
