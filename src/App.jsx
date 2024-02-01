@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 import HeroOne from "./components/HeroOne"
 import NavOne from "./components/NavOne"
 
@@ -12,6 +13,7 @@ function App() {
 
       <NavOne/>
       <HeroOne/>
+      <Footer/>
 
 
 
